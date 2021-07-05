@@ -1,6 +1,6 @@
 # Pipeline for processing multiple cause data #
 
-Check out our [paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01501-1) for more information on how multiple cause of death data are being used to improve data quality and make important advancements on cause-specific mortality estimates.
+Check out our [paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01501-1) for more information on how multiple cause of death data are being used to improve data quality and make important advancements in cause-specific mortality estimates.
 
 Code is designed to mirror claude for ease of transitioning
 between data processing pipelines on CoD and MCause<sup>1</sup>.
